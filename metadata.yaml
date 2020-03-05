@@ -1,0 +1,26 @@
+_repo: The-Modern-Clock-A-Study-of-Time-Keeping-Mechanism-Its-Construction-Regulation-and-Repair_61494
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goodrich, Ward L.
+    gutenberg_agent_id: '51458'
+    url: http://www.gutenberg.org/2009/agents/51458
+description: ''
+gutenberg_issued: '2020-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61494'
+  lccn: 09012896
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clocks and watches'
+- !lcsh 'Clocks and watches -- Repairing'
+- !lcc 'TS'
+- GITenberg
+title: 'The Modern Clock
+
+  A Study of Time Keeping Mechanism; Its Construction, Regulation and Repair'
+url: http://www.gutenberg.org/ebooks/61494
